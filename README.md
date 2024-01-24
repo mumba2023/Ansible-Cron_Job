@@ -1,4 +1,4 @@
-To create a cronjobe for this script to run every month on the ansible master server you follow the steps bellow
+To create a cron job for this script to run every month on the ansible master server you follow the steps bellow
 
 # /bin/crontab -l
 # /bin/crontab -e
