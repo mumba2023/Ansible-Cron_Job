@@ -2,5 +2,5 @@ To create a cronjobe for this script to run every month on the ansible master se
 
 # /bin/crontab -l
 # /bin/crontab -e
-# 0 0 1 * *  /usr/bin/ansible-playbook /home/vagrant/patch-servers/patch.yml
+# 0 0 1 * *  /usr/bin/ansible-playbook /home/ec2-user/patch-servers/patch.yml
 # 
